@@ -1,6 +1,6 @@
 
 package dietcalculater2;
-*
+
 import java.util.Scanner;
 import java.io.PrintStream;
 
